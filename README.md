@@ -5,14 +5,17 @@ Proyecto de una wiki sobre gatos.
 
 ## Paleta de Colores
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="width: 100px; height: 100px; background-color: #FFADAD; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #FFD6A5; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #FDFFB6; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #CAFFBF; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #9BF6FF; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #A0C4FF; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #BDB2FF; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #FFC6FF; border: 1px solid #000;"></div>
-    <div style="width: 100px; height: 100px; background-color: #FFFFFC; border: 1px solid #000;"></div>
-</div>
+## Paleta de Colores
+
+| Color    | Código  |
+|----------|---------|
+| ![#FFADAD](https://via.placeholder.com/50/FFADAD/000000?text=+) | #FFADAD |
+| ![#FFD6A5](https://via.placeholder.com/50/FFD6A5/000000?text=+) | #FFD6A5 |
+| ![#FDFFB6](https://via.placeholder.com/50/FDFFB6/000000?text=+) | #FDFFB6 |
+| ![#CAFFBF](https://via.placeholder.com/50/CAFFBF/000000?text=+) | #CAFFBF |
+| ![#9BF6FF](https://via.placeholder.com/50/9BF6FF/000000?text=+) | #9BF6FF |
+| ![#A0C4FF](https://via.placeholder.com/50/A0C4FF/000000?text=+) | #A0C4FF |
+| ![#BDB2FF](https://via.placeholder.com/50/BDB2FF/000000?text=+) | #BDB2FF |
+| ![#FFC6FF](https://via.placeholder.com/50/FFC6FF/000000?text=+) | #FFC6FF |
+| ![#FFFFFC](https://via.placeholder.com/50/FFFFFC/000000?text=+) | #FFFFFC |
+
