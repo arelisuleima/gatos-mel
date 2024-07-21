@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{title}}</title>
+     <link rel="stylesheet" href="/styles/styles.css">
+
+</head>
+<body>
+    <div class="container">
+  <h1>{{title}}</h1>
+  <h2>Lista de Gatos</h2>
+  <ul>
+    {{#each cats}}
+      <li>
+        <h3>{{name}}</h3>
+        <p>{{description}}</p>
+      </li>
+    {{/each}}
+  </ul>
+  <a href="/">Volver a la página principal</a>
+    </div>
+</body>
+</html>
