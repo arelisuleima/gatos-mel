@@ -28,7 +28,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/cats', (req, res) => {
-  res.render('cats', { cats });
+  res.render('cats', { title: 'Gatos', cats });
 });
 
 app.get('/about', (req, res) => {
