@@ -1,7 +1,6 @@
 
 ![gatito-mel](https://github.com/user-attachments/assets/5ac2bd6e-3521-4abd-b8a3-8faefb772024)
 
-# Gatos MEL
 Proyecto de una wiki sobre gatos.
 ## Esquema entidad-relación de la base que se diseñará.
 
